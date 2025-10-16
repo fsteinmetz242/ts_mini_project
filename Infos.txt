@@ -1,0 +1,8 @@
+https://api.artic.edu/docs/
+
+List of all artworks
+https://api.artic.edu/api/v1/artworks
+
+A single artwork by id
+
+https://api.artic.edu/api/v1/artworks/129884
